@@ -1,0 +1,8 @@
+#main {
+  max-width: 80%;
+  margin-inline: auto;
+  padding: 10vh 0;
+  display: flex;
+  gap: 10vh;
+  flex-direction: column;
+}
